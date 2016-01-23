@@ -1,0 +1,62 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>FULLSTACK | WEBAPPLICATION, FACEBOOK APPLICATION AND WEBSITE</title>
+    <meta http-equiv="Content-Type" Content-Type: "text/html" charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="assets/css/960.css">
+  	<link rel="stylesheet" type="text/css" href="assets/css/text.css">
+  	<link rel="stylesheet" type="text/css" href="assets/css/reset.css">
+  	<link rel="stylesheet" type="text/css" href="assets/css/all_original.css">
+  	<link href="assets/image/favicon.png" rel="icon">
+  </head>
+  <body>
+  	<div id="main-container">
+  		<div class="header-container">
+	     	<div class = "container_12" id = "header">
+          <div id="show">
+    	     		<div class="grid_3" id="logo">
+    	     			<a href="index.php#home"><img src="assets/image/logo_fullstack.png" alt="logo" /></a>
+    	     		</div>
+    	     		<div class="grid_9" id="navigation">
+    	     			 <ul id="navigation-content">
+    	     			  	    <li class="header-link"><a href="index.php#wwd">WHAT WE DO</a></li>
+                        <li class="header-link"><a href="index.php#ourwork">OUR WORK</a></li>
+                        <li class="header-link"><a href="index.php#process">OUR PROCESS</a></li>
+                        <li class="header-link"><a href="index.php#hire-us">HIRE US</a></li>
+    	     		  	</ul>
+    	     		</div>
+          </div>    
+	     	</div>
+	    </div>
+      <div id="noscript">
+          <div class="noscript-content">
+                <noscript><div class="grid_12 noscript-message">Fullstack works best with java script enabled</div></noscript>
+            </div>    
+       </div>
+                          <div class="container_12">
+                     <div class="grid_12 notfound">
+                       <img src="assets/image/404.png" alt="404"/>
+                            <p class="notfound-message">OOPS.</p>
+                            <p class="notfound-message">WE COULDN'T FIND THIS PAGE.</p>
+                            <p class="notfound-message">Sorry about that.</p>
+                            <p id="homepage">You might be able to find what you're looking for from our <a href="index.php">home page.</a></p>
+                     </div>
+                 </div>
+                  </div>
+      <div id="footer">
+          <div class="container_12">
+            <div class="grid_12 footer-content" id="page-footer">
+              <p>Hand-crafted by FULLSTACK</p>
+            </div>
+            <div class="grid_12 footer-content">
+              Follow us on <span class="social"><a class="social-facebook" href="https://www.facebook.com/fullstack.co.in"  target="_blank"></a></span><span class="social"><a class="social-twitter" href="https://www.twitter.com/fullstack.co.in" target="_blank"></a></span>
+            </div>
+            <div class="grid_12 footer-content">
+              <p>&copy; 2013 Fullstack All rights reserved</p>
+            </div>  
+        </div>
+      </div>
+</div>
+</body>
+</html>
